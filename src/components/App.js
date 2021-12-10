@@ -3,7 +3,7 @@ import {Button} from "components/common";
 import {createGlobalStyle} from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
-  p{
+  body{
     min-height: 100vh;
     margin: 0;
     font-family: 'Kaushan Script'
