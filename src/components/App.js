@@ -4,7 +4,9 @@ import {createGlobalStyle} from 'styled-components';
 
 const GlobalStyle = createGlobalStyle`
   p{
-    font-size: 80px;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Kaushan Script'
   }
 `;
 
