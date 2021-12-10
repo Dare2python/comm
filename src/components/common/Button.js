@@ -5,4 +5,4 @@ const Button = styled.button`
     background: black;
 `;
 
-export default Button;
+export {Button};
